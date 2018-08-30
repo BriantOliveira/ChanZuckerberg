@@ -2,7 +2,7 @@
 This repo is for the Make School class SDP-2 working with the Chan Zuckerberg initiative as our industry partner.  
 
 
-# SPD 2.1 and 2.2 Industry Collaboration Project
+## SPD 2.1 and 2.2 Industry Collaboration Project
 
 ## Course Description
 
